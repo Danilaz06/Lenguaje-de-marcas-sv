@@ -1,0 +1,21 @@
+
+/*CSS SON TODO REGLAS DE ESTILOS */
+    /* 1º) Nombre del elemento*/
+    /* 2º) Apertura/cierre de llaves*/
+    /* 3º) Propiedades a tutiplen*/
+
+
+#title1{
+    background-color: #43951d ;
+    display: inline-block;
+}
+
+#title2{
+    background-color: #471d95 ;
+    display: inline-block;
+}
+
+#title3{
+    background-color: #758168 ;
+    display: inline-block;
+}
