@@ -1,0 +1,51 @@
+
+/*CSS SON TODO REGLAS DE ESTILOS */
+    /* 1º) Nombre del elemento*/
+    /* 2º) Apertura/cierre de llaves*/
+    /* 3º) Propiedades a tutiplen*/
+
+#title{
+    background-color: rgb(196, 255, 216);
+    margin-left: 627;
+    padding-left: 627;
+
+}
+#description{
+    background-color: blueviolet;
+    display: inline-block;
+    border: 5px black solid;
+    border-style: solid;
+    border-color: black ;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    margin-top: 50px;
+    margin-left: 627px;
+}
+#card{
+    border: 1px black solid;
+    display: inline-block;
+    margin-left: 45%;
+    margin-right: 45%;
+    padding: 20px
+}
+#nikefoto{
+    width: 150px;
+    height: 150px;
+}
+.border_box{
+    border: 0.5px solid black;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#desc1{
+    color: rgb(0, 0, 0);
+}
+#desc1{
+    color: rgb(0, 0, 0);
+}
+#desc1{
+    color: rgb(0, 0, 0);
+}

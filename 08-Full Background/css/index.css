@@ -1,0 +1,11 @@
+#container p{
+    color: azure;
+}
+#container p{
+    background-color: blue;
+}
+body{
+    background-image: url('../img/galaxia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
